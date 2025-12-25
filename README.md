@@ -6,7 +6,7 @@ permalink: /index.html
 
 This repository hosts my curriculum vitae maintained in plain text (Markdown) and rendered to html and pdf using CSS and GitHub Actions.
 
-This project is a fork of [Eliseo Papa's (elipapa) markdown cv repository](http://elipapa.github.io/markdown-cv). Feel free to check the original for updates, as I forked this a while ago :).
+This project is a fork of David Whipp's (from elipapa originally) markdown cv repository. Feel free to check the original (https://github.com/elipapa/markdown-cv/blob/master/README.md) for updates.
 
 ## License
 
