@@ -3,7 +3,7 @@ layout: cv
 title: Leo's CV
 ---
 # Liu (Leo) Yang, Ph.D.
-<div style="position:relative; left:36%; width:60%; color:#aaa; font-size:60%; font-family:Menlo,monospace,sans-serif;">
+<div style="position:relative; left:36%; width:80%; color:#aaa; font-size:80%; font-family:Menlo,monospace,sans-serif;">
   <code>discover accounting with new dimensions of data and technologies</code>
 </div>
 
@@ -17,7 +17,7 @@ University of Wyoming, Laramie, WY 82070
   <a href="https://www.uwyo.edu/acct-fin/"><i class="fa-solid fa-users"></i> https://www.uwyo.edu/acct-fin/</a><br/>
   <a href="https://github.com/Leouil"><i class="fa-brands fa-github"></i> LeoYang</a> - 
   <a href="https://orcid.org/0000-0002-5801-7660"><i class="fa-brands fa-orcid"></i> 0000-0002-5801-7660</a> - 
-  <a href="https://scholar.google.com/citations?user=793k-yUAAAAJ"><i class="fa-brands fa-google-scholar"></i> Leo</a>
+  <a href="https://scholar.google.com/citations?user=793k-yUAAAAJ"><i class="fa-brands fa-google-scholar"></i> LeoYang</a>
 </div>
 ## Experience
 
@@ -67,14 +67,14 @@ Jeff Z. Chen, Sophie X. Luo, and Kalin Kolev, and **Liu Yang**. (2025). What Are
 
 `2023`
 Jeff Z. Chen, Yongtae Kim, **Liu Yang**, and Joseph Zhang. (2023). Information Transparency and Investment in Follow-on Innovation. *Contemporary Accounting Research*,40(2): 1176–1209.
-```
-&mdash Among the top 10 most-cited papers published by CAR in 2023
-```
+<div style="position:relative; left:36%; width:80%; color:#aaa; font-size:80%; font-family:Menlo,monospace,sans-serif;">
+  <code>Among the top 10 most-cited papers published by CAR in 2023</code>
+</div>
 
 Xin Luo, David Wang, **Liu Yang**, Yiyang Zhang, and Xinlei Zhao. Initial Evidence on the Market Impact of the iXBRL Adoption. *Accounting Horizons*, 37(1): 143–171.
-```
-Selected by AAA Impact Hub as high-quality research with societal impact
-```
+<div style="position:relative; left:36%; width:80%; color:#aaa; font-size:80%; font-family:Menlo,monospace,sans-serif;">
+  <code>Selected by AAA Impact Hub as high-quality research with societal impact</code>
+</div>
 
 `2022`
 Xiaolu Xu, Joseph Zhang, and **Liu Yang**. (2022). How do Auditors Respond to Clients’ Technological Peer Pressure? Evidence from Going-Concern Opinions. *Journal of Business, Finance, and Accounting*, 49(9–10): 1553–1580.
@@ -83,18 +83,18 @@ James Plecnik, Joseph Zhang, and **Liu Yang**. (2022). Corporate Innovation and 
 
 `2021`
 Feng Guo, Xin Luo, Patrick Wheeler, **Liu Yang**, Yiyang Zhang, and Xinlei Zhao. (2021). Enterprise Resource Planning Systems and XBRL Reporting Quality. *Journal of Information Systems*, 35(3): 77–106.  
-```
-  Cited by the SEC in the proposed rule “Amendments Regarding the FOCUS Report”
-```
+<div style="position:relative; left:36%; width:80%; color:#aaa; font-size:80%; font-family:Menlo,monospace,sans-serif;">
+  <code>Cited by the SEC in the proposed rule “Amendments Regarding the FOCUS Report”</code>
+</div>
 
 Stephanie Walton, **Liu Yang**, and Yiyang Zhang. (2021). XBRL Tag Extensions and Tax Accrual Quality. *Journal of Information Systems*, 35(2): 91–114.
 
 **Liu Yang**, Qing Zhou, and Min Zhu. (2021). De-risking through Equity Holdings: Bank and Insurer Behavior under Capital Requirements. *Journal of Business, Finance, and Accounting*, 48(9): 1889–1917.
 
 Martin Kim, Steve Lin, and **Liu Yang**. (2021). Would Improved Information Environment of a Less Regulated OTC Market Benefit Blue-chip Foreign Firms? Evidence from the OTCQX International Market. *Journal of International Accounting Research*, 20(1): 103–131.  
-```
-  Received JIAR Best Paper Award (2023 cycle)
-```
+<div style="position:relative; left:36%; width:80%; color:#aaa; font-size:80%; font-family:Menlo,monospace,sans-serif;">
+  <code>Received JIAR Best Paper Award (2023 cycle)</code>
+</div>
 
 **Liu Yang** and Qing Zhou. (2021). Leverage Constraints and Corporate Financing Decisions. *Accounting and Finance*, 61(4): 5199–5230.
 
@@ -244,18 +244,14 @@ AAA Annual Meeting, Chicago, August
 AAA Annual Meeting, Anaheim, August
 
 ## Technicals and certificates
-<div style="margin-bottom:0.2em;">
-### Programming
+
+<h3 style="margin-bottom: 0.2em;">Programming</h3>
 Python, R, SAS, STATA
-</div>
-<div style="margin-bottom:0.2em;">
-### Software
+<h3 style="margin-top: 0.2em; margin-bottom: 0.2em;">Software</h3>
 Oracle NetSuite, QuickBooks, Tableau
-</div>
-<div style="margin-bottom:0.2em;">
-### Certificate
+<h3 style="margin-top: 0.2em;">Certificate</h3>
 NVIDIA Fundamentals of Deep Learning
-</div>
+
 <!-- 
 Family: Married, three children
 -->
