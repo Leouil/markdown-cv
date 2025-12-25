@@ -83,9 +83,18 @@ James Plecnik, Joseph Zhang, and **Liu Yang**. (2022). Corporate Innovation and 
 
 `2021`
 Feng Guo, Xin Luo, Patrick Wheeler, **Liu Yang**, Yiyang Zhang, and Xinlei Zhao. (2021). Enterprise Resource Planning Systems and XBRL Reporting Quality. *Journal of Information Systems*, 35(3): 77–106.  
-<div style="position:relative; left:30%; width:100%; color:#aaa; font-size:100%; font-family:Menlo,monospace,sans-serif;">
-Cited by the SEC in the proposed rule “Amendments Regarding the FOCUS Report”
-</div>
+<p style="margin: 0;">
+  <span style="
+    display: inline-block;
+    margin-left: 30%;
+    color: #aaa;
+    font-size: 100%;
+    font-family: Menlo, monospace, sans-serif;
+    line-height: inherit;
+  ">
+    Cited by the SEC in the proposed rule “Amendments Regarding the FOCUS Report”
+  </span>
+</p>
 
 Stephanie Walton, **Liu Yang**, and Yiyang Zhang. (2021). XBRL Tag Extensions and Tax Accrual Quality. *Journal of Information Systems*, 35(2): 91–114.
 
