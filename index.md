@@ -4,7 +4,7 @@ title: Leo's CV
 ---
 # Liu (Leo) Yang, Ph.D.
 ```
-  &mdash discover accounting with new dimensions of data and technologies
+  discover accounting with new dimensions of data and technologies
 ```
 
 Department of Accounting & Finance, College of Business<br/>
@@ -22,13 +22,13 @@ University of Wyoming, Laramie, WY 82070
 ## Experience
 
 `2025-present`
-**Assistant Professor of Accounting**, *University of Wyoming*, Laramie, Wyoming, USA.
+**Assistant Professor**, *University of Wyoming*, Laramie, WY.
 
 `2023–2025`
-**Assistant Professor of Accounting**, *Wichita State University*, Wichita, Kansas, USA.
+**Assistant Professor**, *Wichita State University*, Wichita, KS.
 
 `2013-2023`
-**Assistant Professor of Accounting**, *Southeast Missouri State University*, Cape girardeau, Missouri, USA.
+**Assistant Professor**, *Southeast Missouri State University*, Cape girardeau, MO.
 
 ## Education
 
@@ -36,16 +36,16 @@ University of Wyoming, Laramie, WY 82070
 **Ph.D., Accounting**, *University of Miami*, Miami, Florida, USA.
 
 `2012–2013`
-**Study in Master of Accounting Program**, *Louisiana State University*, Baton Rouge, Louisiana, USA.
+**Study in Master of Accounting Program**, *Louisiana State University*, Baton Rouge, LA.
 
 `2010–2012`
-**Master of Applied Statistics**, *Louisiana State University*, Baton Rouge, Louisiana, USA.
+**Master of Applied Statistics**, *Louisiana State University*, Baton Rouge, LA.
 
 `2005–2008`
-**M.S., Electrical and Computer Engineering**, *Shanghai Jiaotong University*, Shanghai, China.
+**M.S., Electrical and Computer Engineering**, *Shanghai Jiaotong University*, Shanghai.
 
 `2001–2005`
-**B.S., Electrical and Computer Engineering**, *Shanghai Jiaotong University*, Shanghai, China.
+**B.S., Electrical and Computer Engineering**, *Shanghai Jiaotong University*, Shanghai.
 
 ## Research activities
 *Financial Accounting, Accounting Information Systems, and Data Analytics and Emerging Technologies*
@@ -58,7 +58,7 @@ University of Wyoming, Laramie, WY 82070
 ### Journal articles, in preparation
 -->
 
-### Journal article publications
+### Pblications
 
 `2025`
 **Liu Yang** and Min Zhu. Misstatement Detection Lag and Prediction Evaluation. *The Accounting Review*, **Forthcoming**.
@@ -72,7 +72,9 @@ Jeff Z. Chen, Yongtae Kim, **Liu Yang**, and Joseph Zhang. (2023). Information T
 ```
 
 Xin Luo, David Wang, **Liu Yang**, Yiyang Zhang, and Xinlei Zhao. Initial Evidence on the Market Impact of the iXBRL Adoption. *Accounting Horizons*, 37(1): 143–171.
-- Selected by AAA Impact Hub as high-quality research with societal impact
+```
+Selected by AAA Impact Hub as high-quality research with societal impact
+```
 
 `2022`
 Xiaolu Xu, Joseph Zhang, and **Liu Yang**. (2022). How do Auditors Respond to Clients’ Technological Peer Pressure? Evidence from Going-Concern Opinions. *Journal of Business, Finance, and Accounting*, 49(9–10): 1553–1580.
@@ -82,7 +84,7 @@ James Plecnik, Joseph Zhang, and **Liu Yang**. (2022). Corporate Innovation and 
 `2021`
 Feng Guo, Xin Luo, Patrick Wheeler, **Liu Yang**, Yiyang Zhang, and Xinlei Zhao. (2021). Enterprise Resource Planning Systems and XBRL Reporting Quality. *Journal of Information Systems*, 35(3): 77–106.  
 ```
-&mdash Cited by the SEC in the proposed rule “Amendments Regarding the FOCUS Report”
+  Cited by the SEC in the proposed rule “Amendments Regarding the FOCUS Report”
 ```
 
 Stephanie Walton, **Liu Yang**, and Yiyang Zhang. (2021). XBRL Tag Extensions and Tax Accrual Quality. *Journal of Information Systems*, 35(2): 91–114.
@@ -91,7 +93,7 @@ Stephanie Walton, **Liu Yang**, and Yiyang Zhang. (2021). XBRL Tag Extensions an
 
 Martin Kim, Steve Lin, and **Liu Yang**. (2021). Would Improved Information Environment of a Less Regulated OTC Market Benefit Blue-chip Foreign Firms? Evidence from the OTCQX International Market. *Journal of International Accounting Research*, 20(1): 103–131.  
 ```
-&mdash Received JIAR Best Paper Award (2023 cycle)
+  Received JIAR Best Paper Award (2023 cycle)
 ```
 
 **Liu Yang** and Qing Zhou. (2021). Leverage Constraints and Corporate Financing Decisions. *Accounting and Finance*, 61(4): 5199–5230.
@@ -161,9 +163,8 @@ Principles of Financial Accounting
 `Summer 2015`
 Textual Analysis in Accounting Boot Camp (TA)
 
-## Service activities
+## Professional service
 
-### Professional service
 `2023–Present`
 Editorial Board, Journal of Information Systems
 
@@ -182,16 +183,16 @@ Reviewer, Managerial Auditing Journal
 `2013–2016`
 Moderator, Accounting Faculty Recruiting Camp
 
-### Service at university
+## University service
 
 `2023–2025`
-#### Wichita State University  
+### Wichita State University  
 Director, FORVIS Accounting Success Academy, 2024–2025  
 Member, Accessibility Committee, 2024–2025  
 Advanced Computing Resources Advisory Board, 2023–2025
 
 `2018-2023`
-#### Southeast Missouri State University  
+### Southeast Missouri State University  
 Accounting Curriculum Committee, 2019–2023  
 Department Representative, College Council, 2020–2023  
 Grant and Research Funding Committee, 2020–2023  
@@ -242,15 +243,19 @@ AAA Annual Meeting, Chicago, August
 `2013`
 AAA Annual Meeting, Anaheim, August
 
-## Skill set and certificates
-
+## Technicals and certificates
+<div style="margin-bottom:0.2em;">
 ### Programming
 Python, R, SAS, STATA
+</div>
+<div style="margin-bottom:0.2em;">
 ### Software
 Oracle NetSuite, QuickBooks, Tableau
+</div>
+<div style="margin-bottom:0.2em;">
 ### Certificate
 NVIDIA Fundamentals of Deep Learning
-
+</div>
 <!-- 
 Family: Married, three children
 -->
