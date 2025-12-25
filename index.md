@@ -4,7 +4,7 @@ title: Leo's CV
 ---
 # Liu (Leo) Yang, Ph.D.
 <div style="position:relative; left:00%; width:100%; color:#aaa; font-size:100%; font-family:Menlo,monospace,sans-serif;">
-  <code>discover accounting with new dimensions of data and technologies</code>
+  discover accounting with new dimensions of data and technologies
 </div>
 
 Department of Accounting & Finance, College of Business<br/>
@@ -245,11 +245,11 @@ AAA Annual Meeting, Anaheim, August
 
 ## Technicals and certificates
 
-<h3 style="margin-bottom: 0.1em;">Programming</h3>
+<h3 style="margin-bottom: 0;">Programming</h3>
 Python, R, SAS, STATA
-<h3 style="margin-top: 0.1em; margin-bottom: 0.1em;">Software</h3>
+<h3 style="margin-top: 0; margin-bottom: 0;">Software</h3>
 Oracle NetSuite, QuickBooks, Tableau
-<h3 style="margin-top: 0.1em;">Certificate</h3>
+<h3 style="margin-top: 0;">Certificate</h3>
 NVIDIA Fundamentals of Deep Learning
 
 <!-- 
