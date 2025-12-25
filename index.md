@@ -3,9 +3,9 @@ layout: cv
 title: Leo's CV
 ---
 # Liu (Leo) Yang, Ph.D.
-```
-  discover accounting with new dimensions of data and technologies
-```
+<div style="position:relative; left:36%; width:60%; color:#aaa; font-size:60%; font-family:Menlo,monospace,sans-serif;">
+  <code>discover accounting with new dimensions of data and technologies</code>
+</div>
 
 Department of Accounting & Finance, College of Business<br/>
 University of Wyoming, Laramie, WY 82070
