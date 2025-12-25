@@ -151,6 +151,16 @@ h3 {
 	width: 20%;
 }
 
+.tight-h3 {
+	font-size: 1em;
+	line-height: 1.1em; 
+	position: relative;
+	text-align: right;
+	width: 20%;
+  	margin-top: 0;
+  	margin-bottom: 0;
+}
+
 a {
 	color: inherit;
 	/*text-decoration:none*/
