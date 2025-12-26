@@ -268,8 +268,10 @@ AAA Annual Meeting, Anaheim, August
 
 <h3 class="tight-h3">Programming</h3>
 Python, R, SAS, STATA
+
 <h3 class="tight-h3">Software</h3>
 Oracle NetSuite, QuickBooks, Tableau
+
 <h3 class="tight-h3">Certificate</h3>
 NVIDIA Fundamentals of Deep Learning
 
