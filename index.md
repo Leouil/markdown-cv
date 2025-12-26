@@ -22,33 +22,33 @@ University of Wyoming, Laramie, WY 82070
 ## Experience
 
 `2025-present`
-**Assistant Professor**, *University of Wyoming*, Laramie, WY.
+**Assistant Professor**, *University of Wyoming*, Laramie, WY
 
 `2023–2025`
-**Assistant Professor**, *Wichita State University*, Wichita, KS.
+**Assistant Professor**, *Wichita State University*, Wichita, KS
 
 `2013-2023`
-**Assistant Professor**, *Southeast Missouri State University*, Cape girardeau, MO.
+**Assistant Professor**, *Southeast Missouri State University*, Cape girardeau, MO
 
 ## Education
 
 `2013–2018`
-**Ph.D., Accounting**, *University of Miami*, Miami, Florida, USA.
+**Ph.D., Accounting**, *University of Miami*, Miami, FL
 
 `2012–2013`
-**Study in Master of Accounting Program**, *Louisiana State University*, Baton Rouge, LA.
+**Study in Master of Accounting Program**, *Louisiana State University*, Baton Rouge, LA
 
 `2010–2012`
-**Master of Applied Statistics**, *Louisiana State University*, Baton Rouge, LA.
+**Master of Applied Statistics**, *Louisiana State University*, Baton Rouge, LA
 
 `2005–2008`
-**M.S., Electrical and Computer Engineering**, *Shanghai Jiaotong University*, Shanghai.
+**M.S., Electrical and Computer Engineering**, *Shanghai Jiaotong University*, Shanghai
 
 `2001–2005`
-**B.S., Electrical and Computer Engineering**, *Shanghai Jiaotong University*, Shanghai.
+**B.S., Electrical and Computer Engineering**, *Shanghai Jiaotong University*, Shanghai
 
 ## Research activities
-*Financial Accounting, Accounting Information Systems, and Data Analytics and Emerging Technologies*
+Financial Accounting, Accounting Information Systems, and Data Analytics and Emerging Technologies
 
 <!--
 *Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=793k-yUAAAAJ). \* = student as lead author, &dagger; = shared first authorship.*
@@ -101,7 +101,7 @@ Stephanie Walton, **Liu Yang**, and Yiyang Zhang. (2021). XBRL Tag Extensions an
 Martin Kim, Steve Lin, and<strong>Liu Yang</strong>. (2021). Would Improved Information Environment of a Less Regulated OTC Market Benefit Blue-chip Foreign Firms? Evidence from the OTCQX International Market. <em>Journal of International Accounting Research</em>, 20(1): 103–131.  
 </p>
 <div style="margin-top:0; margin-bottom:0.4em; margin-left:28%; width:auto; color:#aaa; font-size:100%; font-family:Menlo,monospace,sans-serif;">
-Received JIAR Best Paper Award (2023 cycle)
+  -- Received JIAR Best Paper Award (2023 cycle)
 </div>
 
 **Liu Yang** and Qing Zhou. (2021). Leverage Constraints and Corporate Financing Decisions. *Accounting and Finance*, 61(4): 5199–5230.
