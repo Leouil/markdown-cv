@@ -152,27 +152,29 @@ h3 {
 	width: 20%;
 }
 
-/* Tighter h3: remove the downward shift and tighten line spacing */
+
+/* Make tight h3 truly tight */
 h3.tight-h3 {
-  top: 0;            /* cancel the 1.7em downward shift */
-  line-height: 1.1;  /* tighter lines */
-  margin-top: 0;     /* in case theme adds margins */
-  margin-bottom: 0;
+  top: 0;               /* cancel the 1.7em downward shift */
+  line-height: 1.1;     /* tighter line spacing within the heading */
+  margin-top: 0;        /* avoid extra gap above */
+  margin-bottom: 0;     /* avoid extra gap below */
 }
 
-/* Your current paragraph rule */
-p {
-  position: relative;
-  left: 25%;
-  margin-bottom: 0.7em;
-  margin-right: 0;
-  width: 55%;
+/* When a tight h3 follows an h2, keep the gap small and consistent */
+h2 + h3.tight-h3 {
+  margin-top: 0.2em;    /* small, controlled gap directly under h2 */
 }
 
-/* Adjust the paragraph immediately following a tight h3 */
+/* Control the gap between the tight h3 and the paragraph that follows */
 h3.tight-h3 + p {
-  margin-top: 0.2em;   /* small, controlled gap below the heading */
-  margin-bottom: 0.2em;
+  margin-top: 0.2em;    /* small gap below the heading */
+  margin-bottom: 0.6em; /* tweak if you want more/less space before next block */
+}
+
+/* Reduce extra space among consecutive tight h3 headings */
+h3.tight-h3 + h3.tight-h3 {
+  margin-top: 0.15em;  /* smaller gap when two h3 are consecutive */
 }
 
 a {
