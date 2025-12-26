@@ -3,7 +3,7 @@ layout: cv
 title: Leo's CV
 ---
 # Liu (Leo) Yang, Ph.D.
-<div style="position:relative; left:30%; width:100%; color:#aaa; font-size:100%; font-family:Menlo,monospace,sans-serif;">
+<div style="position:relative; left:30%; width:auto; color:#aaa; font-size:100%; font-family:Menlo,monospace,sans-serif;">
 discover accounting with new dimensions of data and technologies
 </div>
 
@@ -36,7 +36,7 @@ University of Wyoming, Laramie, WY 82070
 **Ph.D., Accounting**, *University of Miami*, Miami, FL
 
 `2012–2013`
-**Study in Master of Accounting Program**, *Louisiana State University*, Baton Rouge, LA
+**Studied in Master of Accounting Program**, *Louisiana State University*, Baton Rouge, LA
 
 `2010–2012`
 **Master of Applied Statistics**, *Louisiana State University*, Baton Rouge, LA
@@ -193,22 +193,25 @@ Moderator, Accounting Faculty Recruiting Camp
 
 ## University service
 
+### Wichita State University
+`2024–2025`
+Director, FORVIS Accounting Success Academy
+`2024–2025`
+Member, Accessibility Committee
 `2023–2025`
-### Wichita State University  
-Director, FORVIS Accounting Success Academy, 2024–2025  
-Member, Accessibility Committee, 2024–2025  
-Advanced Computing Resources Advisory Board, 2023–2025
+Advanced Computing Resources Advisory Board
 
-`2018-2023`
-### Southeast Missouri State University  
-Accounting Curriculum Committee, 2019–2023  
-Department Representative, College Council, 2020–2023  
-Grant and Research Funding Committee, 2020–2023  
-Commencement Committee, 2020–2023  
-SEMO Show Me Day Program, 2019–2022
+### Southeast Missouri State University
+`2019-2023`
+Accounting Curriculum Committee
+`2020-2023`
+Department Representative, College Council
+Grant and Research Funding Committee
+Commencement Committee
+`2019–2022`
+SEMO Show Me Day Program
 
 ## Conference presentations
-
 `2026`
 Hawaii Accounting Research Conference, Honolulu, January
 
