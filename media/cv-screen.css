@@ -162,9 +162,11 @@ h3.tight-h3 {
 }
 
 /* When a tight h3 follows an h2, keep the gap small and consistent */
+/*
 h2 + h3.tight-h3 {
   margin-top: 0.2em;    /* small, controlled gap directly under h2 */
 }
+*/
 
 /* Control the gap between the tight h3 and the paragraph that follows */
 h3.tight-h3 + p {
