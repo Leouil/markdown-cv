@@ -196,18 +196,23 @@ Moderator, Accounting Faculty Recruiting Camp
 ### Wichita State University
 `2024–2025`
 Director, FORVIS Accounting Success Academy
-`2024–2025`
+
 Member, Accessibility Committee
+
 `2023–2025`
 Advanced Computing Resources Advisory Board
 
 ### Southeast Missouri State University
 `2019-2023`
 Accounting Curriculum Committee
+
 `2020-2023`
 Department Representative, College Council
+
 Grant and Research Funding Committee
+
 Commencement Committee
+
 `2019–2022`
 SEMO Show Me Day Program
 
@@ -220,14 +225,17 @@ AAA AIS/SET Midyear Meeting, Boca Raton, February
 
 `2024`
 AAA Conference on Teaching and Learning, D.C., August
+
 Haskayne and Fox Accounting Conference, Lake Louis, June
 
 `2023`
 AAA Annual Meeting, Denver, August
 
 `2022`
-AAA Annual Meeting, San Diego, August  
+AAA Annual Meeting, San Diego, August
+
 AAA Ninth JIAR Conference, June  
+
 Financial Markets and Corporate Governance Conference, Monash, April
 
 `2021`
@@ -238,14 +246,16 @@ AAA Annual Meeting (virtual), August
 AAA Mid-year IAS Conference, Miami, January
 
 `2019`
-AAA Annual Meeting, San Francisco, August  
+AAA Annual Meeting, San Francisco, August
+
 AAA Mid-year AIS New Faculty Consortium, San Antonio, January
 
 `2018`
 AAA Annual Meeting, D.C., August 2018
 
 `2016`
-Conference on Financial Economics and Accounting, Toronto, October  
+Conference on Financial Economics and Accounting, Toronto, October
+
 J. Michael Cook Accounting Doctoral Consortium, Dallas, June
 
 `2015`
