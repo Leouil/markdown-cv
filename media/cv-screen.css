@@ -152,11 +152,12 @@ h3 {
 	width: 20%;
 }
 
-/* For headings you want tighter spacing */
-.tight-h3 {
-  margin-top: 0;          /* remove extra gap above */
-  margin-bottom: 0;       /* remove extra gap below */
-  line-height: 1.1;       /* tighter line height */
+/* Tighter h3: remove the downward shift and tighten line spacing */
+h3.tight-h3 {
+  top: 0;            /* cancel the 1.7em downward shift */
+  line-height: 1.1;  /* tighter lines */
+  margin-top: 0;     /* in case theme adds margins */
+  margin-bottom: 0;
 }
 
 a {
