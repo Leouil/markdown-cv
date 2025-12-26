@@ -66,14 +66,18 @@ University of Wyoming, Laramie, WY 82070
 Jeff Z. Chen, Sophie X. Luo, and Kalin Kolev, and **Liu Yang**. (2025). What Are They Looking at: Directors’ Facial Appearances and Shareholder Voting Outcomes. *Journal of Business Research*, 198: 115479.
 
 `2023`
-Jeff Z. Chen, Yongtae Kim, **Liu Yang**, and Joseph Zhang. (2023). Information Transparency and Investment in Follow-on Innovation. *Contemporary Accounting Research*,40(2): 1176–1209.
-<div style="position:relative; margin: 0; margin-left:30%; width:auto; color:#aaa; font-size:100%; line-height: inherit; font-family:Menlo,monospace,sans-serif;">
-Among the top 10 most-cited papers published by CAR in 2023
+<p style="margin-bottom:0;">
+Jeff Z. Chen, Yongtae Kim, <strong>Liu Yang</strong>, and Joseph Zhang. (2023). Information Transparency and Investment in Follow-on Innovation. <em>Contemporary Accounting Research</em>,40(2): 1176–1209.
+</p>
+<div style="margin-top:0; margin-bottom:0.4em; margin-left:28%; width:auto; color:#aaa; font-size:100%; font-family:Menlo,monospace,sans-serif;">
+  -- Among the top 10 most-cited papers published by CAR in 2023
 </div>
 
-Xin Luo, David Wang, **Liu Yang**, Yiyang Zhang, and Xinlei Zhao. Initial Evidence on the Market Impact of the iXBRL Adoption. *Accounting Horizons*, 37(1): 143–171.
-<div style="position:relative; left:30%; width:100%; color:#aaa; font-size:100%; font-family:Menlo,monospace,sans-serif;">
-Selected by AAA Impact Hub as high-quality research with societal impact
+<p style="margin-bottom:0;">
+Xin Luo, David Wang, <strong>Liu Yang</strong>, Yiyang Zhang, and Xinlei Zhao. Initial Evidence on the Market Impact of the iXBRL Adoption. <em>Accounting Horizons</em>, 37(1): 143–171.
+</p>
+<div style="margin-top:0; margin-bottom:0.4em; margin-left:28%; width:auto; color:#aaa; font-size:100%; font-family:Menlo,monospace,sans-serif;">
+  -- Selected by AAA Impact Hub as high-quality research with societal impact
 </div>
 
 `2022`
@@ -93,8 +97,10 @@ Stephanie Walton, **Liu Yang**, and Yiyang Zhang. (2021). XBRL Tag Extensions an
 
 **Liu Yang**, Qing Zhou, and Min Zhu. (2021). De-risking through Equity Holdings: Bank and Insurer Behavior under Capital Requirements. *Journal of Business, Finance, and Accounting*, 48(9): 1889–1917.
 
-Martin Kim, Steve Lin, and **Liu Yang**. (2021). Would Improved Information Environment of a Less Regulated OTC Market Benefit Blue-chip Foreign Firms? Evidence from the OTCQX International Market. *Journal of International Accounting Research*, 20(1): 103–131.  
-<div style="position:relative; left:30%; width:100%; color:#aaa; font-size:100%; font-family:Menlo,monospace,sans-serif;">
+<p style="margin-bottom:0;">
+Martin Kim, Steve Lin, and<strong>Liu Yang</strong>. (2021). Would Improved Information Environment of a Less Regulated OTC Market Benefit Blue-chip Foreign Firms? Evidence from the OTCQX International Market. <em>Journal of International Accounting Research</em>, 20(1): 103–131.  
+</p>
+<div style="margin-top:0; margin-bottom:0.4em; margin-left:28%; width:auto; color:#aaa; font-size:100%; font-family:Menlo,monospace,sans-serif;">
 Received JIAR Best Paper Award (2023 cycle)
 </div>
 
