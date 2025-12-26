@@ -82,8 +82,10 @@ Xiaolu Xu, Joseph Zhang, and **Liu Yang**. (2022). How do Auditors Respond to Cl
 James Plecnik, Joseph Zhang, and **Liu Yang**. (2022). Corporate Innovation and Future Earnings: Evidence from Early Technology Disclosure. *Accounting and Finance*, 62(1): 2011–2056.
 
 `2021`
-Feng Guo, Xin Luo, Patrick Wheeler, **Liu Yang**, Yiyang Zhang, and Xinlei Zhao. (2021). Enterprise Resource Planning Systems and XBRL Reporting Quality. *Journal of Information Systems*, 35(3): 77–106.<br>
-<div style="margin-top:0; margin-bottom:0.2em; margin-left:28%; width:auto; color:#aaa; font-size:100%; font-family:Menlo,monospace,sans-serif;">
+<p style="margin-bottom:0;">
+Feng Guo, Xin Luo, Patrick Wheeler, <strong>Liu Yang</strong>, Yiyang Zhang, and Xinlei Zhao. (2021). Enterprise Resource Planning Systems and XBRL Reporting Quality. <em>Journal of Information Systems</em>, 35(3): 77–106.
+</p>
+<div style="margin-top:0; margin-bottom:0.4em; margin-left:28%; width:auto; color:#aaa; font-size:100%; font-family:Menlo,monospace,sans-serif;">
   -- Cited by the SEC in the proposed rule “Amendments Regarding the FOCUS Report”
 </div>
 
