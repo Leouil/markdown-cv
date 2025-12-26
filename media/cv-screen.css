@@ -51,120 +51,152 @@ table {
 
 /* ============ Base document ============ */
 body {
-  font: normal normal 400;
-  font-size: 100%;
-  line-height: 1.5em;
-  font-family: Avenir, Verdana, sans-serif;
-  margin-top: 1em;
-  margin-left: 1em;
+	font: normal normal 400;
+	font-size: 100%;
+	line-height: 1.5em;
+	/*also written as...  font: normal normal 400 100%/1.5em;*/
+	font-family: Avenir,Verdana,sans-serif;
+	margin-top: 1em;
+	margin-left: 1em;
 }
 
 /* ============ Content column (paragraphs) ============ */
 p {
-  /* Content column placement */
-  margin: 0 0 0.7em 0;     /* top/right/bottom/left margins: control vertical rhythm here */
-  position: static;        /* reset any positioning */
-  left: auto;              /* not needed when position: static */
-  width: 55%;
-  margin-left: 25%;        /* indent the content column */
+	position: relative;
+	left: 25%;
+	margin-bottom: 0.7em;
+	margin-right: 0;
+	width: 55%;
+}
+
+code {
+	font: normal normal;
+	font-size: 90%;
+	/*line-height: 1em;*/
+	font-family: Monaco,Menlo,monospace,sans-serif;
+	color: #aaa;
+}
+
+p code {
+	position: absolute;
+	text-align: right;
+	right: -20%;
 }
 
 /* Lists in the content column */
-ul {
-  position: static;
-  width: 75%;
-  margin: 0.2em 0 1.2em 25%; /* small gap above, larger below, aligned with content column */
-  padding: 0;
+ul { 
+	position: relative;
+	left: 25%;
+	width: 75%;
+	margin-bottom: 1.5em;
+	margin-top: -0.5em;
 }
+
+/*uncomment to get dashes in the list*/
+/*li:before {
+	content: "-";
+	position: relative;
+	left: -0.25em;
+}*/
+
 li {
-  padding-left: 1.25em;
-  text-indent: -1.25em;
+	/*second line indent*/
+	padding-left: 1.25em;
+	text-indent: -1.25em;
+	/*color: #777;*/
+}
+
+li ul {
+	position: relative;
+	left: 0;
+	width: 100%;
+	margin-top: 0.25em;
 }
 
 /* ============ Headings column ============ */
-h1, h2, h3, h4 {
-  font-weight: 400;
-  font-family: Avenir, Cousine, Verdana, sans-serif;
-  width: 20%;              /* right-side headings column */
-  text-align: right;
-  margin-left: 0;          /* headings stay in their own column (no left offset) */
-  position: static;        /* remove relative positioning */
+h1,h2,h3,h4 {
+	font-weight: 400;
+	font-family: Avenir,Cousine,Verdana,sans-serif;
+	width: 80%;
 }
 
-/* H1 (name/title) */
 h1 {
-  font-size: 3em;
-  line-height: 1.1em;
-  margin: 0.3em 0 0.3em 0; /* compact around H1 */
-  /* If you previously visually placed H1 over the content column,
-     mirror that with content margins rather than top offsets */
+	text-align: left;
+	font-size: 3em;
+	line-height: 1em;
+	position: relative;
+	left: 25%;
 }
 
-/* H2 (section heading) */
+h1+p { 
+	/*subtitle*/
+	font-style: italic;
+	font-size: 110%;
+}
+
 h2 {
-  font-size: 1.1em;
-  color: #bc412b;
-  margin: 2.0em 0 0.6em 0; /* space above/below the section title */
+	font-size: 1.1em;
+	color: #bc412b;
+	margin-top: 3em;
+	position: relative;
+	top: 1.4em;
+	text-align: right;
+	width: 20%;
 }
 
-/* H3 (subsection heading) */
 h3 {
-  font-size: 1em;
-  line-height: 1.3em;
-  margin: 0.9em 0 0.3em 0; /* default spacing for non-tight variants */
+	font-size: 1em;
+	line-height: 2em; 
+	position: relative;
+	top: 1.7em;
+	text-align: right;
+	width: 20%;
 }
 
-/* ============ Tight H3 variant ============ */
-/* Use for compact subsections under H2 without overlap */
+/* Make tight h3 truly tight */
 h3.tight-h3 {
-  margin-top: 0.25em;      /* small gap under the H2 or previous block */
-  margin-bottom: 0.15em;   /* minimal gap before its following paragraph */
-  line-height: 1.1em;      /* tighter lines inside the H3 itself */
+  top: 0;               /* cancel the 1.7em downward shift */
+  line-height: 1.1;     /* tighter line spacing within the heading */
+  margin-top: 0;        /* avoid extra gap above */
+  margin-bottom: 0;     /* avoid extra gap below */
 }
 
-/* When a tight H3 directly follows an H2, keep the gap consistent */
+/* When a tight h3 follows an h2, keep the gap small and consistent */
 h2 + h3.tight-h3 {
-  margin-top: 0.3em;       /* tuned gap below H2; adjust to taste */
+  margin-top: 0.2em;    /* small, controlled gap directly under h2 */
 }
 
-/* Control the gap between tight H3 and the paragraph that follows */
+/* Control the gap between the tight h3 and the paragraph that follows */
 h3.tight-h3 + p {
-  margin-top: 0.2em;       /* small gap below the heading */
+  margin-top: 0.2em;    /* small gap below the heading */
+  margin-bottom: 0.6em; /* tweak if you want more/less space before next block */
 }
 
-/* If two tight H3s are consecutive, give them a tiny separation */
+/* Reduce extra space among consecutive tight h3 headings */
 h3.tight-h3 + h3.tight-h3 {
-  margin-top: 0.2em;
+  margin-top: 0.15em;  /* smaller gap when two h3 are consecutive */
 }
 
-/* ============ Code in paragraphs (unchanged behavior) ============ */
-code {
-  font: normal normal;
-  font-size: 90%;
-  font-family: Monaco, Menlo, monospace, sans-serif;
-  color: #aaa;
-}
-p code {
-  /* inline code stays inline; avoid absolute positioning to keep flow */
+a {
+	color: inherit;
+	/*text-decoration:none*/
 }
 
-/* ============ Links (as you had) ============ */
-a { color: inherit; }
-a:hover { color: #39f; }
+a:hover {
+	color:#39f
+}
 
-/* ============ Address/Webaddress (use margins rather than positioning) ============ */
 #webaddress {
-  margin-top: 1em;
-  margin-left: 25%;
-  color: #bc412b;
-  font-family: Monaco, Menlo, monospace, sans-serif;
-  font-size: 100%;
+	margin-top: 1em;
+	position: relative;
+	left: 25%;
+	color: #bc412b;
+	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-size: 100%;
 }
-#webaddress a { text-decoration: none; }
 
-/* Optional: remove default margins around lists/paragraphs under H2 sections */
-section h2 + p { margin-top: 0.4em; }
-section h2 + ul { margin-top: 0.2em; }
+#webaddress a {
+	text-decoration: none;
 
 em {
 	/* font-weight: bold; */
