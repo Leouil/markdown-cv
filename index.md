@@ -126,7 +126,9 @@ V. Peltonen, S. Kultti, N. Putkinen, V. Rinterknecht, A. Hall, and **D. M. Whipp
 
 “The Hidden Power of Proxy Statement Imagery: Do Attractive Proxy Statements Cover for Unattractive Financial Information?” with James Plecnik and Xin Luo. Revising for resubmission at Journal of Business, Finance, and Accounting.
 
+<!-- 
 “The Power of Standards: How Sustainability Disclosure Standards Adoption Influences Multinationals’ Foreign Investment” with Juan Bu and Aurora Genin. Under review at Journal of Management.
+-->
 
 ## Awards and honors
 `2025`
