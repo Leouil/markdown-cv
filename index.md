@@ -118,7 +118,9 @@ V. Peltonen, S. Kultti, N. Putkinen, V. Rinterknecht, A. Hall, and **D. M. Whipp
 -->
 
 ### Working papers
+<!-- 
 “Detecting Accounting Fraud with Noisy Labels”  with Min Zhu, Daniel Ahfock, and Geoffrey McLachlan. 2nd round review at Management Science.
+-->
 
 “Home-Country Geopolitical Risk and the Valuation of U.S. Foreign Private Issuers”  with Douglas Cumming, Joanna Golden, and Michael Imhof. Revising for resubmission at Journal of Banking and Finance.
 
