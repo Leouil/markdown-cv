@@ -157,7 +157,7 @@ h3 {
 h3.tight-h3 {
   /* top: 1.7em;               /* cancel the 1.7em downward shift */
   line-height: 0.6;     /* tighter line spacing within the heading */
-  margin-top: 0;        /* avoid extra gap above */
+  margin-top: 0.2em;        /* avoid extra gap above */
   margin-bottom: 0;     /* avoid extra gap below */
 }
 
@@ -169,7 +169,7 @@ h2 + h3.tight-h3 {
 
 /* Control the gap between the tight h3 and the paragraph that follows */
 h3.tight-h3 + p {
-  margin-top: 0.3em;    /* small gap below the heading */
+  margin-top: 0.5em;    /* small gap below the heading */
   margin-bottom: 0; /* tweak if you want more/less space before next block */
 }
 
