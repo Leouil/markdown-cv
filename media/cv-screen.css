@@ -156,8 +156,8 @@ h3 {
 /* Make tight h3 truly tight */
 h3.tight-h3 {
   /* top: 1.7em;               /* cancel the 1.7em downward shift */
-  line-height: 0.6;     /* tighter line spacing within the heading */
-  margin-top: 0.2em;        /* avoid extra gap above */
+  line-height: 0.5;     /* tighter line spacing within the heading */
+  margin-top: 0.5em;        /* avoid extra gap above */
   margin-bottom: 0;     /* avoid extra gap below */
 }
 
