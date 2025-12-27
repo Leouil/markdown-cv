@@ -169,7 +169,7 @@ h2 + h3.tight-h3 {
 
 /* Control the gap between the tight h3 and the paragraph that follows */
 h3.tight-h3 + p {
-  margin-top: 0.2;    /* small gap below the heading */
+  margin-top: 1.7em;    /* small gap below the heading */
   margin-bottom: 0; /* tweak if you want more/less space before next block */
 }
 
