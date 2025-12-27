@@ -49,8 +49,7 @@ table {
 
 /* end of reset */
 
-
-
+/* ============ Base document ============ */
 body {
 	font: normal normal 400;
 	font-size: 100%;
@@ -61,6 +60,7 @@ body {
 	margin-left: 1em;
 }
 
+/* ============ Content column (paragraphs) ============ */
 p {
 	position: relative;
 	left: 25%;
@@ -83,7 +83,7 @@ p code {
 	right: -20%;
 }
 
-
+/* Lists in the content column */
 ul { 
 	position: relative;
 	left: 25%;
@@ -113,6 +113,7 @@ li ul {
 	margin-top: 0.25em;
 }
 
+/* ============ Headings column ============ */
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
@@ -152,6 +153,31 @@ h3 {
 	width: 20%;
 }
 
+/* Make tight h3 truly tight */
+h3.tight-h3 {
+  /* top: 1.7em;               /* cancel the 1.7em downward shift */
+  line-height: 0.5;     /* tighter line spacing within the heading */
+  margin-top: 0.5em;        /* avoid extra gap above */
+  margin-bottom: 0;     /* avoid extra gap below */
+}
+
+/* When a tight h3 follows an h2, keep the gap small and consistent */
+/*
+h2 + h3.tight-h3 {
+  margin-top: 0.2em;    * small, controlled gap directly under h2
+}
+
+/* Control the gap between the tight h3 and the paragraph that follows */
+h3.tight-h3 + p {
+  margin-top: 0.5em;    /* small gap below the heading */
+  margin-bottom: 0; /* tweak if you want more/less space before next block */
+}
+
+/* Reduce extra space among consecutive tight h3 headings */
+h3.tight-h3 + h3.tight-h3 {
+  margin-top: 0.15em;  /* smaller gap when two h3 are consecutive */
+}
+
 a {
 	color: inherit;
 	/*text-decoration:none*/
@@ -172,7 +198,6 @@ a:hover {
 
 #webaddress a {
 	text-decoration: none;
-}
 
 em {
 	/* font-weight: bold; */
@@ -186,8 +211,6 @@ strong {
 #address {
 	display: none;
 }
-
-
 
 /*
 @media only screen and (max-width: 480px) {

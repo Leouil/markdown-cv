@@ -151,6 +151,18 @@ h3 {
 	width: 20%;
 }
 
+/* For headings you want tighter spacing */
+.tight-h3 {
+  margin-top: 0;          /* remove extra gap above */
+  margin-bottom: 0;       /* remove extra gap below */
+  line-height: 1.1;       /* tighter line height */
+}
+
+/* If headings are consecutive, remove extra top margin on the second+ ones */
+h3.tight-h3 + h3.tight-h3 {
+  margin-top: 0;
+}
+
 a {
 	color: inherit;
 	/*text-decoration:none*/
