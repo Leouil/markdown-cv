@@ -122,9 +122,9 @@ V. Peltonen, S. Kultti, N. Putkinen, V. Rinterknecht, A. Hall, and **D. M. Whipp
 “Detecting Accounting Fraud with Noisy Labels”  with Min Zhu, Daniel Ahfock, and Geoffrey McLachlan. 2nd round review at Management Science.
 -->
 
-“Home-Country Geopolitical Risk and the Valuation of U.S. Foreign Private Issuers”  with Douglas Cumming, Joanna Golden, and Michael Imhof. Revising for resubmission at Journal of Banking and Finance.
+“Home-Country Geopolitical Risk and the Valuation of U.S. Foreign Private Issuers”  with Douglas Cumming, Joanna Golden, and Michael Imhof. Under 2nd round review at Journal of Banking and Finance.
 
-“Consequences of Changing the Delisting Regulation in China’s Stock Markets: Initial Evidence”  with Li Huang, Dan Yang, and Ziying Yang. 3rd round review at Journal of International Accounting Research.
+“Consequences of Changing the Delisting Regulation in China’s Stock Markets: Initial Evidence”  with Li Huang, Dan Yang, and Ziying Yang. Under 3rd round review at Journal of International Accounting Research.
 
 “Auditor Sustainability Focus and Client Sustainability Real Behavior: Evidence on Sustainability Innovations”  with Stephanie Walton and Ian Zhang. Revising for resubmission at Journal of Business, Finance, and Accounting.
 
