@@ -76,7 +76,7 @@ Jeff Z. Chen, Yongtae Kim, <strong>Liu Yang</strong>, and Joseph Zhang. (2023). 
 </div>
 
 <p style="margin-bottom:0;">
-Xin Luo, David Wang, <strong>Liu Yang</strong>, Yiyang Zhang, and Xinlei Zhao. Initial Evidence on the Market Impact of the iXBRL Adoption. <em>Accounting Horizons</em>, 37(1): 143–171.
+Xin Luo, David Wang, <strong>Liu Yang</strong>, Yiyang Zhang, and Xinlei Zhao. (2023). Initial Evidence on the Market Impact of the iXBRL Adoption. <em>Accounting Horizons</em>, 37(1): 143–171.
 </p>
 <div style="margin-top:0; margin-bottom:0.4em; margin-left:28%; width:auto; color:#aaa; font-size:100%; font-family:Menlo,monospace,sans-serif;">
   -- Selected by AAA Impact Hub as high-quality research with societal impact
