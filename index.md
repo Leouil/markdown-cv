@@ -65,7 +65,7 @@ Financial Accounting, Accounting Information Systems, and Data Analytics and Eme
 `2025`
 **Liu Yang** and Min Zhu. Misstatement Detection Lag and Prediction Evaluation. *The Accounting Review*, **Forthcoming**.
 
-Jeff Z. Chen, Sophie X. Luo, and Kalin Kolev, and **Liu Yang**. (2025). What Are They Looking at: Directors’ Facial Appearances and Shareholder Voting Outcomes. *Journal of Business Research*, 198: 115479.
+Jeff Z. Chen, Sophie X. Luo, and Kalin Kolev, and **Liu Yang**. (2025). What Are They Looking at: Directors’ Facial Appearances and Shareholder Voting Outcomes. <em>Journal of Business Research<em>, 198: 115479.
 
 `2023`
 <p style="margin-bottom:0;">
@@ -122,7 +122,7 @@ V. Peltonen, S. Kultti, N. Putkinen, V. Rinterknecht, A. Hall, and **D. M. Whipp
 “Detecting Accounting Fraud with Noisy Labels”  with Min Zhu, Daniel Ahfock, and Geoffrey McLachlan. 2nd round review at Management Science.
 -->
 
-“Home-Country Geopolitical Risk and the Valuation of U.S. Foreign Private Issuers”  with Douglas Cumming, Joanna Golden, and Michael Imhof. Under 2nd round review at Journal of Banking and Finance.
+“Home-Country Geopolitical Risk and the Valuation of U.S. Foreign Private Issuers”  with Douglas Cumming, Joanna Golden, and Michael Imhof. 3nd round revising for resubmission at Journal of Banking and Finance.
 
 “Consequences of Changing the Delisting Regulation in China’s Stock Markets: Initial Evidence”  with Li Huang, Dan Yang, and Ziying Yang. Under 3rd round review at Journal of International Accounting Research.
 
